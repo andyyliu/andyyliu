@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Andy and I am currently a software enginner at JPMorgan Chase!
+Hi! My name is Andy and I am currently a data enginner at Metae!
